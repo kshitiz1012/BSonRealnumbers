@@ -21,5 +21,5 @@ double func()
         r=mid;
     }
     
-    cout<<l<<endl;
+    return l;
 }
